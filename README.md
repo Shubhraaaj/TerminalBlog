@@ -13,6 +13,7 @@ models for each class.
 ## Screenshots
 
 **Please click the image below to enlarge.**
+<img src="https://github.com/Shubhraaaj/TerminalBlog/blob/master/send%20image.jpg"> 
 
 ## Getting started
 The app is built in Python3 and coded using PyCharm IDE. To run this app, You just need to 
